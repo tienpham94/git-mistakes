@@ -2,6 +2,7 @@
 
 function helloWorld(){{
   alert('Hello')
+  alert('Alert from github')
 }}
 
 // git reset --hard will remove all the changes permanently
