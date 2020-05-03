@@ -10,3 +10,7 @@ function helloWorld(){{
 function newHelloWorld(){{
   console.log('New Hello')
 }}
+
+function newFunc(){{
+  console.log('func')
+}}
