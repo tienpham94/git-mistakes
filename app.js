@@ -5,3 +5,8 @@ function helloWorld(){{
 }}
 
 // git reset --hard will remove all the changes permanently
+
+
+function newHelloWorld(){{
+  console.log('New Hello')
+}}
